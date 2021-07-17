@@ -17,4 +17,4 @@ for i in range(start,real_end,distance):
         print(i)
 print(f"\nTotal n = {count}")
 
-time.sleep(300)
+time.sleep(3600)
